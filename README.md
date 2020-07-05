@@ -1,8 +1,7 @@
-# Wrangle_and_Analyze_Data_Project4_Udacity_DAND_Riad
+# Project 4: Wrangle and Analyze Data _ @WeRateDogs
 Gather data about @WeRateDogs Twitter user from a variety of sources and in a variety of formats, assess its quality and tidiness issues, then clean it. Showcase wrangling efforts through analyses and visualizations.
 
-by Riad Baziz
-30/06/2020
+Udacity DAND _ by Riad Baziz, 30/06/2020
 
 ## 1. Project Overview
 
